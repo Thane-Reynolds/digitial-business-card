@@ -10,7 +10,7 @@ export function Info(){
         <h1 className="info--name">Thane Reynolds</h1>
         <h2 className="info--title">Frontend Developer</h2>
         <div className="info--link-div">
-          <a href="thanereynolds.dev" className="info--link">thanereynolds.dev</a>
+          <a href="http://thanereynolds.dev" className="info--link" target="_blank" rel="noreferrer">thanereynolds.dev</a>
         </div>
         <div className="info--button-div">
           <a className="info--mailtolink" href="mailto: thane.a.reynolds@gmail.com">
